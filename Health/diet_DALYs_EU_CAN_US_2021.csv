@@ -1,0 +1,49 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in red meat,Number,2021,520026.4250544042,872575.0246057054,-283.4082916125493
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in red meat,Percent,2021,0.0103005156877653,0.0169129406184757,-5.8252126287e-06
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in red meat,Rate,2021,451.16189536836004,757.02422604971,-0.24587793206
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Number,2021,82697.0362913349,130973.733779746,32774.67667577688
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Percent,2021,0.0007709754724348,0.0012094742543399,0.000313741316617
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Rate,2021,39.99678417513,63.346020577379996,15.85161606992
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in trans fatty acids,Number,2021,9367.961377227784,21170.68093360486,932.1821344698892
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in trans fatty acids,Percent,2021,8.75495395734e-05,0.0001974101378599,8.896297979e-06
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in trans fatty acids,Rate,2021,4.53085559253,10.23929265323,0.45085397634999996
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in processed meat,Number,2021,434624.1403838264,758960.4163280218,81064.83432919485
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in processed meat,Percent,2021,0.0085947862733963,0.0146543620335107,0.00157453439131
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in processed meat,Rate,2021,377.06901322928,658.45503890363,70.32981891229001
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in red meat,Number,2021,788530.9202611768,1203444.139537152,-250.6336708822317
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in red meat,Percent,2021,0.0073640736704164,0.0110907189000897,-2.3317895471e-06
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in red meat,Rate,2021,381.37643678061,582.0510344086,-0.12122007379000001
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in red meat,Number,2021,112929.9334714808,216512.39601599917,-57.33861704812425
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in red meat,Percent,2021,0.0102636173239299,0.0192396459797885,-4.9279493435e-06
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in red meat,Rate,2021,301.39397811212996,577.84088186266,-0.15302863785
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in processed meat,Number,2021,1090616.1417460912,1825524.1096349857,261788.44728262344
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in processed meat,Percent,2021,0.0101786143287124,0.0168642119506233,0.0024682292473981
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Both,All ages,All causes,Diet high in processed meat,Rate,2021,527.48127859941,882.92273936333,126.61513030066
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in red meat,Number,2021,1319078.9938454316,2382860.525834488,-826.4062495714134
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in red meat,Percent,2021,0.0104171146575319,0.0188079539493101,-6.4252973394e-06
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in red meat,Rate,2021,396.54443762469003,716.34078896251,-0.24843607018000002
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Number,2021,142630.1009370028,222448.8958620123,65211.011071960864
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Percent,2021,0.0028178780158335,0.0043326481320512,0.0013058978236086
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Rate,2021,123.74230149667001,192.99108784559,56.575439125100004
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in trans fatty acids,Number,2021,7780.966707023021,16362.356850722466,852.8034839624606
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in trans fatty acids,Percent,2021,0.0001542879693566,0.0003220182166775,1.73765292087e-05
+DALYs (Disability-Adjusted Life Years),Central Europe,Both,All ages,All causes,Diet high in trans fatty acids,Rate,2021,6.7505717367599996,14.19557078987,0.73987093283
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Number,2021,31285.48277055808,52288.27377109892,14107.668937756422
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Percent,2021,0.0028314213798659,0.0044708779849828,0.0012973371422977
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Rate,2021,83.49651699527,139.54998782026,37.65136782014
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in trans fatty acids,Number,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in trans fatty acids,Percent,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in trans fatty acids,Rate,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Number,2021,595285.3066213808,919715.7665186464,284673.40187298297
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Percent,2021,0.0046881837921838,0.0068810955028385,0.0023070460360514
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in sugar-sweetened beverages,Rate,2021,178.95598234966,276.48698304677,85.57914619149001
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in processed meat,Number,2021,112980.47223603287,198163.17423746412,21353.93399426259
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in processed meat,Percent,2021,0.0102430342880311,0.0175431428128169,0.0018523378960273
+DALYs (Disability-Adjusted Life Years),Canada,Both,All ages,All causes,Diet high in processed meat,Rate,2021,301.52885890794,528.86941099492,56.99062168047
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in trans fatty acids,Number,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in trans fatty acids,Percent,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in trans fatty acids,Rate,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in processed meat,Number,2021,2223929.65974837,3675712.658475021,588627.1905781848
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in processed meat,Percent,2021,0.0175479863490567,0.0286215051852004,0.0044895341270448
+DALYs (Disability-Adjusted Life Years),United States of America,Both,All ages,All causes,Diet high in processed meat,Rate,2021,668.56264132512,1105.00084970327,176.95440481389
